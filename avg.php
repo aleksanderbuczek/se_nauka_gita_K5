@@ -7,7 +7,7 @@
 	
 	function srednia_wazona (a,b)
 	{
-		return (60*a+40*b)/100;
+		return (10*a+90*b)/100;
 	}
 
 
